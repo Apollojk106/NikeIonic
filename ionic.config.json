@@ -1,0 +1,7 @@
+{
+  "name": "AplicativoNike",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
